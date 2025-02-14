@@ -65,6 +65,3 @@ This project will include **screenshots of the following**:
 This project is open-source and available under the **MIT License**.
 
 ---
-
-### 📌 GitHub Repository Link:
-[🔗 GitHub Repository](https://github.com/Onkargiri29/Image-Steganography-Using-LSB-Technique)  *(Update with your actual GitHub URL)*
